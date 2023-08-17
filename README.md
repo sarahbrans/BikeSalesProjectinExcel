@@ -40,5 +40,6 @@ The dashboard was created to visually represent the insights derived from the cl
     distribution, helping in targeting specific age groups effectively.
 
 ## Dashboard
-The dashboard can be found here.
+The dashboard is available [here](https://github.com/sarahbran/Covid19DataExploration/blob/main/Tableau%20Dashboard%20(World%20Covid%20Data).png).
+
 
