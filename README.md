@@ -38,3 +38,7 @@ The dashboard was created to visually represent the insights derived from the cl
 
     • Age Brackets: Utilized the transformed age brackets to visualize customer age
     distribution, helping in targeting specific age groups effectively.
+
+## Dashboard
+The dashboard can be found here.
+
