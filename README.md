@@ -1,1 +1,1 @@
-# DataCleaning and Dashboard Creation in Excel
+# Data Cleaning and Dashboard Creation in Excel
