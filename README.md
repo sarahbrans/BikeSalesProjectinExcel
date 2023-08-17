@@ -39,7 +39,7 @@ The dashboard was created to visually represent the insights derived from the cl
     • Age Brackets: Utilized the transformed age brackets to visualize customer age
     distribution, helping in targeting specific age groups effectively.
 
-## Dashboard
+## Dashboard in Excel
 The dashboard is available [here](https://github.com/sarahbrans/ExcelDataProject/blob/main/Bike%20Sales%20Dashboard(Excel).png)
 
 
